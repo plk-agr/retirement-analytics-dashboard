@@ -67,6 +67,10 @@ Provides insights into investment allocation and fund distribution trends.
 
 Analyzes participant transaction activity and digital engagement.
 
+### Sample Data
+
+Contains CSV files.
+
 ---
 
 ## Repository Structure
